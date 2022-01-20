@@ -1,4 +1,4 @@
-# The functions added are
+# The functions added to xv6 are
 - set_priority
 - setpriority
 - Scheduling Algorithms 
